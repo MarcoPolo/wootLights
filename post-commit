@@ -1,1 +1,1 @@
-ssh shark "echo ON > /home/shark/lights/lights"  
+ssh shark@sharktank.servebeer.com "echo ON > /home/shark/lights/lights"  
