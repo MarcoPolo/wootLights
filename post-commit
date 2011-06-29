@@ -1,0 +1,1 @@
+ssh shark "echo ON > /home/shark/lights/lights"  
