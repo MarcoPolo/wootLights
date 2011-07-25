@@ -1,2 +1,20 @@
+-------------Client-----------------
+Type in the following command to install
+
+curl http://marcopolo.github.com/wootLights/installWootmit.sh | sh
+
+
+
+
+
+
+-------------Server-----------------
+
+The server with the woot lights must be running this
 use dnotify -M ./ -e sh onChange.sh 
 to make it work
+
+
+make sure to 
+chmod a+x onChange.sh
+chmod a+x turnMeOn.py
