@@ -1,2 +1,7 @@
+runt his command in your git directory to install the wootmit
+
+curl http://marcopolo.github.com/wootLights/installWootmit.sh | sh
+
+
 use dnotify -M ./ -e sh onChange.sh 
 to make it work
