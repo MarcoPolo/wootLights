@@ -1,0 +1,2 @@
+use dnotify -M ./ -e sh onChange.sh 
+to make it work
